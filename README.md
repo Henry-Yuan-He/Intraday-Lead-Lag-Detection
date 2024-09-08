@@ -39,6 +39,6 @@ This folder contains scripts for preparing and testing trading strategies:
 - `3_test_theta.py`, `3_test_theta_1min.py`: Scripts for testing the theta-based trading strategies.
   - `1_prepare_for_theta.py`, `1_prepare_for_theta_1min.py`, `2_prepare_for_theta.ipynb`, `2_prepare_for_theta_1min.ipynb`: Scripts that generate the leader average return distributions for the theta-based trading strategies.
 - `test_biobj_weighted.py`, `test_biobj_weighted_1min.py`: Scripts for testing weighted bi-objective trading strategies.
-- 
+
 These files generate results for **Chapter 5, Section 5.2.4: Comparison of Trading Strategies.**
 
